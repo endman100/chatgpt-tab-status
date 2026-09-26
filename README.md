@@ -2,6 +2,8 @@
 
 A lightweight userscript that shows the current ChatGPT execution state directly in the browser tab title.
 
+> **Quick install:** [Install the userscript with Tampermonkey / Violentmonkey](https://raw.githubusercontent.com/endman100/chatgpt-tab-status/main/chatgpt-tab-status.user.js)
+
 ## States
 
 - `[IDLE]` — no active response
@@ -25,8 +27,9 @@ When several ChatGPT tabs are running at the same time, it is difficult to see w
 ## Install
 
 1. Install Tampermonkey or Violentmonkey.
-2. Install `chatgpt-tab-status.user.js`.
-3. Open or reload `https://chatgpt.com/`.
+2. Click [**Install ChatGPT Tab Status**](https://raw.githubusercontent.com/endman100/chatgpt-tab-status/main/chatgpt-tab-status.user.js).
+3. Confirm the installation in your userscript manager.
+4. Open or reload `https://chatgpt.com/`.
 
 ## Privacy
 
